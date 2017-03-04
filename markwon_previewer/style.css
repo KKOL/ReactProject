@@ -1,0 +1,23 @@
+body{
+  margin:50px;
+}
+
+#description{
+  border-bottom:2px solid black;
+}
+
+#description h1, #description p{
+  text-align:center;
+  font-family:'Open Sans', sans-serif;
+}
+
+footer{
+ margin-top:75px;
+ font-family:'Open Sans', sans-serif;
+ text-align:center;
+
+}
+
+#view{
+  overflow:auto;
+}
