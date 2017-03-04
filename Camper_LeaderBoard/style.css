@@ -1,0 +1,68 @@
+body{
+  margin:0;
+  padding-left:-5px;
+  padding-top:100px ;
+  padding-bottom:100px;
+  font-family:'Open Sans', sans serif;
+
+}
+.boardTable{
+  border:2px solid black;
+  overflow:auto;
+  font-family:'Open Sans', sans serif;
+}
+
+.campersImage{
+  display:inline;
+}
+
+.campersUserName{
+  display:inline;
+}
+
+h1{
+  margin-bottom:0;
+  padding:20px 0;
+  text-align:center;
+  color:rgb(255, 204, 255);
+  background-color:rgb(255, 51, 0);
+}
+
+h2{
+  text-align:center;
+}
+
+img{
+  width:50px;
+  height:auto;
+  border-radius:2px;
+}
+
+.impaire{
+
+}
+
+.order{
+  background-color:gray;
+}
+
+.paire{
+    background-color:rgb(255, 204, 255);
+}
+
+table{
+  margin:0 auto;
+}
+
+th{
+  text-align:inherit;
+  border:2px solid black;
+}
+
+th.item{
+  width:300px;
+}
+
+th.index{
+  width:50px;
+}
